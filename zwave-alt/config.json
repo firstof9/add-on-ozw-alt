@@ -1,5 +1,5 @@
 {
-  "name": "OpenZWave",
+  "name": "OpenZWave_Alt",
   "version": "0.5.2",
   "slug": "zwave",
   "description": "Control a ZWave network with Home Assistant",
