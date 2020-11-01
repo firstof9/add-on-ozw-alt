@@ -1,4 +1,4 @@
-# Home Assistant Add-on: OpenZWave
+# Home Assistant Add-on: OpenZWave-Alt
 
 Allow Home Assistant to talk to a Z-Wave Network via a USB Controller.
 
