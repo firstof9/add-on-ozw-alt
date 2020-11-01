@@ -4,7 +4,7 @@
   "slug": "zwave",
   "description": "Control a ZWave network with Home Assistant",
   "arch": ["amd64", "i386", "armhf", "armv7", "aarch64"],
-  "url": "https://github.com/home-assistant/hassio-addons/tree/master/zwave",
+  "url": "https://github.com/firstof9/add-on-ozw-alt/tree/master/zwave-alt",
   "ingress": true,
   "ingress_entry": "vnc_lite.html",
   "panel_icon": "mdi:z-wave",
@@ -38,5 +38,5 @@
     "network_key": "password",
     "instance": "int(1,)?"
   },
-  "image": "firstof9/ozw_addon_special_sauce:0.5.2-{arch}"
+  "image": "firstof9/ozw_addon_special_sauce:latest"
 }
