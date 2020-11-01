@@ -38,5 +38,5 @@
     "network_key": "password",
     "instance": "int(1,)?"
   },
-  "image": "firstof9/ozw_addon_special_sauce-{arch}"
+  "image": "firstof9/ozw_addon_special_sauce:0.5.2-{arch}"
 }
