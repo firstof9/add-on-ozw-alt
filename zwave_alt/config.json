@@ -1,10 +1,10 @@
 {
   "name": "OpenZWave_Alt",
   "version": "0.5.2",
-  "slug": "zwave",
+  "slug": "zwave_alt",
   "description": "Control a ZWave network with Home Assistant",
   "arch": ["amd64", "i386", "armhf", "armv7", "aarch64"],
-  "url": "https://github.com/firstof9/add-on-ozw-alt/tree/master/zwave-alt",
+  "url": "https://github.com/firstof9/add-on-ozw-alt/tree/master/zwave_alt",
   "ingress": true,
   "ingress_entry": "vnc_lite.html",
   "panel_icon": "mdi:z-wave",
