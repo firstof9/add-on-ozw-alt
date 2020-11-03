@@ -1,6 +1,6 @@
 {
   "name": "OpenZWave_Alt",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "slug": "zwave_alt",
   "description": "Control a ZWave network with Home Assistant",
   "arch": ["amd64", "i386", "armhf", "armv7", "aarch64"],
@@ -38,5 +38,5 @@
     "network_key": "password",
     "instance": "int(1,)?"
   },
-  "image": "firstof9/ozw_addon_special_sauce:latest"
+  "image": "firstof9/ozw_addon_special_sauce"
 }
